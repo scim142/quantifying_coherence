@@ -1,4 +1,4 @@
-This is the code for the paper How to quantify the Coherence of a Set of Beliefs.
+This is the code for the paper _How to quantify the Coherence of a Set of Beliefs_ <https://arxiv.org/abs/2412.02777>
 
 Run the file test_methods_with_100000words.py to reproduce the results of appendix F.
 
